@@ -1,0 +1,44 @@
+{
+	"id": 3530,
+	"name": "Byzantine Empire Flag",
+	"description": "Flag of the Palaiologan Dynasty used to represent the Byzantine Empire. Credit goes to r/ByzantineMemes and r/Byzantium, as well as r/GreecePlace and the Greek r/Place reddit.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Byzantine_flags_and_insignia"
+		],
+		"subreddit": [
+			"ByzantineMemes",
+			"GreecePlace"
+		],
+		"discord": [
+			"XUfgyk5kXu",
+			"qmtwjrgA7v"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				1278,
+				-863
+			],
+			[
+				1298,
+				-863
+			],
+			[
+				1298,
+				-846
+			],
+			[
+				1278,
+				-846
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			1288,
+			-854
+		]
+	}
+}
