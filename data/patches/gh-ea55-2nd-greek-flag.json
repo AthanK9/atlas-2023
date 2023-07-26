@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "2nd Greek Flag",
+	"description": "A Greek flag containing a pita gyros, frappe, and a Kalamaki.",
+	"links": {
+		"subreddit": [
+			"GreecePlace"
+		],
+		"discord": [
+			"qmtwjrgA7v"
+		]
+	},
+	"path": {
+		"156-259": [
+			[
+				367,
+				831
+			],
+			[
+				367,
+				831
+			],
+			[
+				381,
+				831
+			],
+			[
+				381,
+				885
+			],
+			[
+				367,
+				885
+			]
+		]
+	},
+	"center": {
+		"156-259": [
+			374,
+			858
+		]
+	}
+}
